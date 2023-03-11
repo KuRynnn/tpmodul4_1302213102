@@ -1,0 +1,15 @@
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\bin\Debug\net6.0\tpmodul4_1302213102.exe
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\bin\Debug\net6.0\tpmodul4_1302213102.deps.json
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\bin\Debug\net6.0\tpmodul4_1302213102.runtimeconfig.json
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\bin\Debug\net6.0\tpmodul4_1302213102.dll
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\bin\Debug\net6.0\tpmodul4_1302213102.pdb
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.csproj.AssemblyReference.cache
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.AssemblyInfoInputs.cache
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.AssemblyInfo.cs
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.csproj.CoreCompileInputs.cache
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.dll
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\refint\tpmodul4_1302213102.dll
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.pdb
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\tpmodul4_1302213102.genruntimeconfig.cache
+D:\Materi Tel U\Semester 4\KPL TP\TP_KPL_MOD4_1302213102\tpmodul4_1302213102\tpmodul4_1302213102\obj\Debug\net6.0\ref\tpmodul4_1302213102.dll
